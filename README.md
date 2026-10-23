@@ -51,8 +51,8 @@ This project helped me practice and improve my understanding of:
 
 ```text
 python-calculator/
-├── advanced_calculator.py
-└── README.md
+├── README.md
+└── advanced_calculator.py
 ```
 
 ## Project Status
